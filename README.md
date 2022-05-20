@@ -1,2 +1,2 @@
 # 3PAN2122
-Hola, esto es un proyecto dek curso 21-22 dek *IES los Albares*
+Hola, esto es un proyecto del curso 21-22 del **IES los Albares**
